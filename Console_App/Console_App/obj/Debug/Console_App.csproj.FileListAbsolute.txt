@@ -1,0 +1,6 @@
+C:\Users\VarvitsK\Desktop\Development\Training\c#\Console_App\Console_App\bin\Debug\Console_App.exe.config
+C:\Users\VarvitsK\Desktop\Development\Training\c#\Console_App\Console_App\bin\Debug\Console_App.exe
+C:\Users\VarvitsK\Desktop\Development\Training\c#\Console_App\Console_App\bin\Debug\Console_App.pdb
+C:\Users\VarvitsK\Desktop\Development\Training\c#\Console_App\Console_App\obj\Debug\Console_App.csprojResolveAssemblyReference.cache
+C:\Users\VarvitsK\Desktop\Development\Training\c#\Console_App\Console_App\obj\Debug\Console_App.exe
+C:\Users\VarvitsK\Desktop\Development\Training\c#\Console_App\Console_App\obj\Debug\Console_App.pdb
